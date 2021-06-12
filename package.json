@@ -1,0 +1,18 @@
+{
+  "name": "covid-api",
+  "version": "1.0.0",
+  "description": "Una api para visualizar los datos de la COVID 19 implementando node.js y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm index.js"
+  },
+  "author": "Alfredo Aguiar Arce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.9.0"
+  }
+}
